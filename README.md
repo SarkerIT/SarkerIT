@@ -1,6 +1,8 @@
 ## 📚Lifelong Learner 📚
   ## ❤️ Tech-lover ❤️ 
 
+I am a dedicated lifelong learner who is motivated by the desire to find fulfillment and tackle complex challenges that contribute to both the company’s success and my professional growth. With a strong passion for technology, I strive to combine my enthusiasm for learning with my interest in technology to develop effective solutions.
+
 <!--
 **SarkerIT/SarkerIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
